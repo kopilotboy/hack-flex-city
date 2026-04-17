@@ -1,0 +1,11 @@
+
+git remote add origin https://github.com/kopilotboy/hack-flex-city.git
+ git branch -M main 
+git push -u origin mainecho "# hack-flex-city" >> README.md 
+git init 
+git add README.md 
+git commit -m "premier commit" 
+git branch -M main 
+git remote add origin https://github.com/kopilotboy/hack-flex-city.git
+ git push -u origin main
+https://github.com/kopilotboy/hack-flex-city.git 
